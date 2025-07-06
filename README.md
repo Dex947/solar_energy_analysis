@@ -104,8 +104,8 @@ solar_energy_analysis/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/solar-energy-analysis.git
-cd solar-energy-analysis
+git clone https://github.com/dex947/solar_energy_analysis.git
+cd solar_energy_analysis
 ```
 
 ### 2. Create Environment
